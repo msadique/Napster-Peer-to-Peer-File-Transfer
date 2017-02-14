@@ -1,0 +1,200 @@
+
+Imbue hue:tinge:suffuse with color
+
+Immanent of qualities that are spread throughout something; "ambition is immanent in human nature"; "we think of God as immanent in nature"
+
+Immure imprison:incarcerate:lag:put_behind_bars:jail:jug:gaol:put_away:remand:lock up or confine, in or as in a jail; "The suspects were imprisoned without trial"; "the murderer was incarcerated for the rest of his life"
+
+Impair make worse or less effective; "His vision was impaired"
+
+Impale transfix:empale:spike:pierce with a sharp stake or point; "impale a shrimp on a skewer"
+
+Impasse blind_alley:cul_de_sac:dead-end_street:a street with only one way in or out
+
+Impeccable faultless:immaculate:without fault or error; "faultless logic"; "speaks impeccable French"; "timing and technique were immaculate"; "an immaculate record"
+
+Impede obstruct:obturate:occlude:jam:block:close_up:block passage through; "obstruct the path":ANT :- free:disengage::
+
+Impending at_hand(p):close_at_hand(p):imminent:close in time; about to occur; "retribution is at hand"; "some people believe the day of judgment is close at hand"; "in imminent danger"; "his impending retirement"
+
+Imperil endanger:jeopardize:jeopardise:menace:threaten:peril:pose a threat to; present a danger to; "The pollution is endangering the crops"
+
+Imperious masterful:able to deal authoritatively with affairs; "dismissed the matter with an imperious wave of her hand"
+
+Impervious imperviable:not admitting of passage or capable of being affected; "a material impervious to water"; "someone impervious to argument":ANT :- pervious::
+
+Impetuous hotheaded:impulsive:madcap:tearaway(a):brainish:characterized by undue haste and lack of thought or deliberation; "a hotheaded decision"; "liable to such impulsive acts as hugging strangers"; "an impetuous display of spending and gambling"; "madcap escapades"; (`brainish
+
+Impetus impulse:impulsion:the act of applying force suddenly; "the impulse knocked him over"
+
+Impinge hit:strike:on:run_into:collide_with:hit against; come into sudden contact with; "The car hit a tree"; "He struck the table with his elbow":ANT :- miss::
+
+Implacable impossible to placate; "an implacable enemy":ANT :- placable::
+
+Implausible farfetched:highly imaginative but unlikely; "a farfetched excuse"; "an implausible explanation"
+
+Implode go_off:burst inward; "The bottle imploded":ANT :- explode:burst::
+
+Implore beg:pray:call upon in supplication; entreat; "I beg you to stop!"
+
+Impolitic not politic; "an impolitic approach to a sensitive issue":ANT :- politic::
+
+Importunate appealing:imploring:pleading:expressing earnest entreaty; "the appealing and frightened look worn by an injured dog"; "she holds out her hand for money, importunate, insistent"; "a pleading note in her voice"
+
+Imposture impersonation:pretending to be another person
+
+Imprecate curse:cuss:blaspheme:swear:utter obscenities or profanities; "The drunken men were cursing loudly in the street"
+
+Impresario showman:promoter:a sponsor who books and stages public entertainments
+
+Imprimatur sanction:countenance:endorsement:indorsement:warrant:formal and explicit approval; "a Democrat usually gets the union
+
+Impropriety familiarity:indecorum:liberty:an act of undue intimacy
+
+Impudence crust:gall:impertinence:insolence:cheekiness:freshness:the trait of being rude and impertinent; inclined to take liberties
+
+Impugn attack as false or wrong
+
+Impuissance helplessness:weakness:powerlessness revealed by an inability to act; "in spite of their weakness the group remains highly active"
+
+Impute ascribe:assign:attribute:attribute or credit to; "We attributed this quotation to Shakespeare"; "People impute great cleverness to cats"
+
+Inadmissible not deserving to be admitted; "inadmissible evidence":ANT :- admissible::
+
+Inadvertently unwittingly:unknowingly:without knowledge or intention; "he unwittingly deleted the references":ANT :- mindfully:heedfully:advertently::wittingly:knowingly::
+
+Inane asinine:fatuous:mindless:vacuous:complacently or inanely foolish
+
+Incandescent light_bulb:lightbulb:bulb:lamp:electric_light:electric-light_bulb:electric lamp consisting of a glass bulb containing a wire filament (usually tungsten) that emits light when heated
+
+Incarcerate imprison:lag:immure:put_behind_bars:jail:jug:gaol:put_away:remand:lock up or confine, in or as in a jail; "The suspects were imprisoned without trial"; "the murderer was incarcerated for the rest of his life"
+
+Incendiary bomb:incendiary:firebomb:a bomb that is designed to start fires; are most effective against flammable targets (such as fuel)
+
+Incense the pleasing scent produced when incense is burned; "incense filled the room"
+
+Incessant perpetual:endless:occurring so frequently as to seem ceaseless or uninterrupted; "a child
+
+Inchoate incipient:only partly in existence; imperfectly formed; "incipient civil disorder"; "an incipient tumor"; "a vague inchoate idea"
+
+Incipient inchoate:only partly in existence; imperfectly formed; "incipient civil disorder"; "an incipient tumor"; "a vague inchoate idea"
+
+Inclusion the act of including
+
+Incognito p):with your identity concealed
+
+Incontinent not having control over urination and defecation:ANT :- continent::
+
+Incorporeal immaterial:without material form or substance; "an incorporeal spirit":ANT :- corporeal:material::
+
+Incorrigible impervious to correction by punishment:ANT :- corrigible::
+
+Incredulous not disposed or willing to believe; unbelieving:ANT :- credulous::
+
+Incriminate accuse:impeach:criminate:bring an accusation against; level a charge against; "He charged the man with spousal abuse"
+
+Incubus a male demon believed to lie on sleeping persons and to have sexual intercourse with sleeping women
+
+Incumbent officeholder:the official who holds an office
+
+Indemnify compensate:recompense:repair:make amends for; pay compensation for; "One can never fully repair the suffering and losses of the Jews in the Third Reich"; "She was compensated for the loss of her arm in the accident"
+
+Indenture a contract binding one party into the service of another for a specified term
+
+Indict accuse formally of a crime
+
+Indigence need:penury:beggary:pauperism:pauperization:a state of extreme poverty or destitution; "their indigence appalled him"; "a general state of need exists among the homeless"
+
+Indignation outrage:a feeling of righteous anger
+
+Indignity an affront to one
+
+Indolent of tumors e.g.; slow to heal or develop and usually painless; "an indolent ulcer"; "leprosy is an indolent infectious disease"
+
+Indulgent being favorably inclined; "an indulgent attitude"
+
+Inebriated intoxicated:drunk:stupefied or excited by a chemical substance (especially alcohol); "a noisy crowd of intoxicated sailors"; "helplessly inebriated":ANT :- sober::
+
+Ineffable indefinable:indescribable:unspeakable:untellable:unutterable:defying expression or description; "indefinable yearnings"; "indescribable beauty"; "ineffable ecstasy"; "inexpressible anguish"; "unspeakable happiness"; "unutterable contempt"; "a thing of untellable splendor"
+
+Ineluctable inescapable:unavoidable:impossible to avoid or evade:"inescapable conclusion"; "an ineluctable destiny"; "an unavoidable accident"
+
+Inept tactless:revealing lack of perceptiveness or judgment or finesse; "an inept remark"; "it was tactless to bring up those disagreeable"
+
+Inexorable adamant:adamantine:intransigent:not capable of being swayed or diverted from a course; unsusceptible to persuasion; "he is adamant in his refusal to change his mind"; "Cynthia was inexorable; she would have none of him"- W.Churchill; "an intransigent conservative opposed to every libera
+
+Infernal time_bomb:machine:a bomb that has a detonating mechanism that can be set to go off at a particular time
+
+Influx inflow:the process of flowing in:ANT :- outflow:effluence:efflux::
+
+Infraction misdemeanor:misdemeanour:offence:offense:violation:infringement:a crime less serious than a felony
+
+Ingenuity ingeniousness:cleverness:the property of being ingenious; "a plot of great ingenuity"; "the cleverness of its design"
+
+Ingenuous artless:characterized by an inability to mask your feelings; not devious; "an ingenuous admission of responsibility":ANT :- disingenuous:artful::
+
+Ingrate thankless_wretch:ungrateful_person:a person who shows no gratitude
+
+Ingratiate gain favor with somebody by deliberate efforts
+
+Inimical unfriendly:not friendly; "an unfriendly act of aggression"; "an inimical critic"
+
+Iniquitous sinful:ungodly:characterized by iniquity; wicked because it is believed to be a sin; "iniquitous deeds"; "he said it was sinful to wear lipstick"; "ungodly acts"
+
+Injunction enjoining:enjoinment:cease_and_desist_order:(law) a judicial remedy issued in order to prohibit a party from doing or continuing to do a certain activity; "injunction were formerly obtained by writ but now by a judicial order"
+
+Inkling intimation:glimmering:glimmer:a slight suggestion or vague understanding; "he had no inkling what was about to happen"
+
+Innocuous innocent:lacking intent or capacity to injure; "an innocent prank"
+
+Innuendo insinuation:an indirect (and usually malicious) implication
+
+Inordinate excessive:undue:unreasonable:beyond normal limits; "excessive charges"; "a book of inordinate length"; "his dress stops just short of undue elegance"; "unreasonable demands"
+
+Inquisitor interrogator:a questioner who is excessively harsh
+
+Inscrutable cryptic:cryptical:deep:mysterious:mystifying:of an obscure nature; "the new insurance policy is written without cryptic or mysterious terms"; "a deep dark secret"; "the inscrutible workings of Providence"; "in its mysterious past it encompasses all the dim origins of life"- Rachel Carson; "rituals t
+
+Insidious pernicious:subtle:working or spreading in a hidden and usually injurious way; "glaucoma is an insidious disease"; "a subtle poison"
+
+Insinuation ingratiation:the act of gaining acceptance or affection for yourself by persuasive and subtle blandishments; "she refused to use insinuation in order to gain favor"
+
+Insipid tasteless:not pleasing to the sense of taste
+
+Insolence an offensive disrespectful impudent act
+
+Insouciant casual:nonchalant:marked by blithe unconcern; "an ability to interest casual students"; "showed a casual disregard for cold weather"; "an utterly insouciant financial policy"; "an elegantly insouciant manner"; "drove his car with nonchalant abandon"; "was polite in a teasi
+
+Instigate prompt:inspire:serve as the inciting cause of; "She prompted me to call my relatives"
+
+Insular parochial:narrowly restricted in outlook or scope; "little sympathy with parocial mentality"; "insular attitudes toward foreigners"
+
+Insuperable insurmountable:impossible to surmount
+
+Insurrection rebellion:revolt:rising:uprising:organized opposition to authority; a conflict in which one faction tries to wrest control from another
+
+Inter service_support:action by one military service to provide logistic (or administrative) support to another military service
+
+Interdict interdiction:a court order prohibiting a party from doing a certain activity
+
+Interloper intruder:trespasser:someone who intrudes on the privacy or property of another without permission
+
+Internecine mutually_ruinous:characterized by bloodshed and carnage for both sides; "internecine war"
+
+Interregnum the time between two reigns, governments, etc.
+
+Intone chant:intonate:cantillate:recite with musical intonation; recite as a chant or a psalm; "The rabbi chanted a prayer"
+
+Intractable not tractable; difficult to manage or mold; "an intractable disposition"; "intractable pain"; "the most intractable issue of our era"; "intractable metal":ANT :- tractable:manipulable::
+
+Intransigent adamant:adamantine:inexorable:not capable of being swayed or diverted from a course; unsusceptible to persuasion; "he is adamant in his refusal to change his mind"; "Cynthia was inexorable; she would have none of him"- W.Churchill; "an intransigent conservative opposed to every libera
+
+Inundate deluge:submerge:fill or cover completely, usually with water
+
+Inure harden:indurate:cause to accept or become hardened to; habituate; "He was inured to the cold"
+
+Invective vituperation:vitriol:abusive or venomous language used to express blame or censure or bitter deep-seated ill will
+
+Inveigh declaim:speak against in an impassioned manner; "he declaimed against the wasteful ways of modern society"
+
+Inveigle wheedle:cajole:palaver:blarney:coax:sweet-talk:influence or urge by gentle urging, caressing, or flattering; "He palavered her into going along"
